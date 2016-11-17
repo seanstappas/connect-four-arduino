@@ -1,5 +1,5 @@
 # Connect-Four on Arduino
-Two-player Connect-Four game, using buttons and LEDs.
+Two-player Connect-Four game, using LEDs, shift registers, and buttons. Tested on the *SparkFun RedBoard* microcontroller.
 
 Videos of the testing process and the final product can be found [here](https://www.youtube.com/playlist?list=PLVTYtiALv0DUyM9RUe0QZrs172qcsEV8D).
 
